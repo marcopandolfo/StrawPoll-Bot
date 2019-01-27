@@ -4,7 +4,7 @@
 * Works on <b>No Limitation Checking</b> polls
 
 # Usage:
-## For IP Duplication Check, use "BOT-SocksBot" (Recommended)
+## >> For IP Duplication Check, use "BOT-SocksBot" (Recommended)
 
 ### First, Update the proxy list (socks.txt) every day because most proxies stop working overnight
 [You can get some free on this site](http://www.live-socks.net/)
@@ -16,7 +16,7 @@
 * -Run in the terminal:
 * >$ node app.js
 
-## No Limitation Checking, use "BOT-NoProtection" (Very rarely there will be no IP protection)
+## >> No Limitation Checking, use "BOT-NoProtection" (Very rarely there will be no IP protection)
 No proxy/socks required
 * -Open App.js in your text editor
 * -Edit the voting link [(show)](https://user-images.githubusercontent.com/40467826/51801127-e226c400-2220-11e9-92ee-ede33053958f.png)
